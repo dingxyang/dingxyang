@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/xyding1993/count.svg" />
+</p>
+
+
 <!--
 **xyding1993/xyding1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
