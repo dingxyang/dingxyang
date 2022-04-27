@@ -9,7 +9,7 @@ I'm xyding .
 
 
 
-[![dingxyang's github stats](https://github-readme-stats.vercel.app/api?username=dingxyang)](https://github.com/anuraghazra/github-readme-stats)
+[![dingxyang's github stats](https://github-readme-stats.vercel.app/api?username=dingxyang&hide=stars,commits,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **dingxyang/dingxyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
