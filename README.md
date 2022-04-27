@@ -9,10 +9,10 @@ I'm xyding .
 
 
 
-[![xyding's github stats](https://github-readme-stats.vercel.app/api?username=xyding1993)](https://github.com/anuraghazra/github-readme-stats)
+[![dingxyang's github stats](https://github-readme-stats.vercel.app/api?username=dingxyang)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**xyding1993/xyding1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dingxyang/dingxyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
