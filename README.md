@@ -4,7 +4,6 @@ I'm dingxyang .
 
 - 📍 南京
 - 👨‍🎓 HHU
-- 🌍 知识星球：「ESUN·前端简报」
 
 <!-- 
 [![dingxyang's github stats](https://github-readme-stats.vercel.app/api?username=dingxyang&hide=&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats) -->
