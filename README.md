@@ -1,9 +1,6 @@
-### Hi there 👋
+# Hi, I'm dingxyang 👋
 
-I'm dingxyang .
-
-- 📍 南京
-- 👨‍🎓 HHU
+📍 南京 | 👨‍🎓 HHU
 
 <!-- 
 [![dingxyang's github stats](https://github-readme-stats.vercel.app/api?username=dingxyang&hide=&hide=prs,contribs)](https://github.com/anuraghazra/github-readme-stats) -->
