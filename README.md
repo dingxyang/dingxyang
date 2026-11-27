@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 ## Current Projects
 - 📌 **[Hostern](https://github.com/dingxyang/Hostern)** - macOS 终端管理工具
+- 🚀 **[Mibivu](https://github.com/dingxyang/mibivu)** - macOS 单应用性能录制器
